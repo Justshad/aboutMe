@@ -1,108 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        /* Ajoutez vos styles CSS personnalisés ici */
-        body {
-            font-family: Arial, sans-serif;
-        }
+# 💫 About Me:
+**Full Stack Web Development:**
+👋 Hi! I'm a beginner in Full Stack web development. I'm learning to create websites that look great and work smoothly.
 
-        .section {
-            margin-bottom: 20px;
-        }
+**HTML & CSS:**
+💼 I'm just starting to learn HTML and CSS, the building blocks of web design.
 
-        .section-title {
-            font-size: 18px;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
+**JavaScript:**
+💼 I'm beginning to explore JavaScript, which adds interactivity to websites.
 
-        .emoji {
-            font-size: 24px;
-        }
+**Database & Entity-Relationship Diagrams (ERD):**
+🧰 I'm starting to learn about databases and how to design data structures using ERD.
 
-        .description {
-            margin-left: 30px;
-        }
+**MySQL & SQL:**
+🧰 I'm in the early stages of working with MySQL and SQL databases to store and retrieve data.
 
-        .tech-stack {
-            font-weight: bold;
-        }
+**Mobile App Development (React Native):**
+📱 I'm also interested in learning mobile app development using React Native.
 
-        .social-link {
-            text-decoration: none;
-            color: #0077B5;
-        }
+**JavaFX:**
+📱 I'm starting to explore desktop application development with JavaFX.
 
-        .github-stats {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-            margin-top: 20px;
-        }
+**Project Management & SCRUM:**
+🛠️ I'm getting familiar with project management and learning about the SCRUM methodology.
 
-        .github-stat {
-            flex: 1;
-            text-align: center;
-            border: 1px solid #EAEAEA;
-            padding: 10px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="section">
-        <div class="emoji">👋</div>
-        <div class="section-title">About Me:</div>
-        <div class="description">
-            Full Stack Web Development:<br>
-            Hi! I'm a beginner in Full Stack web development. I'm learning to create websites that look great and work smoothly.
-        </div>
-    </div>
+**Cloud, Linux & Docker:**
+🛠️ I'm interested in learning about cloud platforms, Linux, and Docker for application deployment.
 
-    <div class="section">
-        <div class="emoji">💼</div>
-        <div class="section-title">HTML & CSS:</div>
-        <div class="description">
-            I'm just starting to learn HTML and CSS, the building blocks of web design.
-        </div>
-    </div>
+**Architecture & Design Patterns:**
+🛠️ I'm beginning to study software architecture and design patterns.
 
-    <!-- Ajoutez d'autres sections ici en suivant le même modèle -->
+**Object-Oriented Programming:**
+🛠️ I'm starting to understand the principles of Object-Oriented Programming.
 
-    <div class="section">
-        <div class="emoji">🌐</div>
-        <div class="section-title">Socials:</div>
-        <a class="social-link" href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="_blank">LinkedIn</a>
-    </div>
+**JPA & Hibernate:**
+🛠️ I'm beginning to explore JPA and Hibernate for Java-based database interaction.
 
-    <div class="section">
-        <div class="emoji">💻</div>
-        <div class="section-title">Tech Stack:</div>
-        <div class="tech-stack">
-            JavaScript, Java, PHP, Git, Linux, Docker, Portfolio, Postman, React, NodeJS, Bootstrap, Oracle
-        </div>
-    </div>
+**Spring Security & Spring Boot REST API:**
+🛠️ I'm interested in learning about security in Spring Boot REST APIs.
 
-    <div class="section">
-        <div class="emoji">📊</div>
-        <div class="section-title">GitHub Stats:</div>
-        <div class="github-stats">
-            <div class="github-stat">
-                GitHub Stats:<br>
-                <img src="https://github-readme-stats.vercel.app/api?username=Justshad&theme=swift&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-            </div>
-            <div class="github-stat">
-                GitHub Streak Stats:<br>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justshad&theme=swift&hide_border=false" alt="GitHub Streak Stats">
-            </div>
-            <div class="github-stat">
-                Top Languages:<br>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justshad&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+**Algorithm & Java:**
+🛠️ I'm just starting to learn about algorithms and Java programming.
+
+**Git & GitHub:**
+🧰 I'm beginning to use Git and GitHub for version control.
+
+If you're a fellow beginner or if you have any questions, feel free to reach out. Let's learn and grow together! 😊🌐
+
+## 🌐 Socials:
+[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/feed/)
+
+# 💻 Tech Stack:
+JavaScript, Java, PHP, Git, Linux, Docker, Portfolio, Postman, React, NodeJS, Bootstrap, Oracle
+
+# 📊 GitHub Stats:
+**GitHub Stats:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justshad&theme=swift&hide_border=false&include_all_commits=false&count_private=false)
+
+**GitHub Streak Stats:**
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Justshad&theme=swift&hide_border=false)
+
+**Top Languages:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Justshad&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+**GitHub Trophies:**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Justshad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+**Top Contributed Repo:**
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Justshad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+**Random Dev Meme:**
+![Random Dev Meme](https://randommeme-five.vercel.app/)
