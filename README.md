@@ -8,9 +8,6 @@
 **JavaScript:**
 💼 I'm beginning to explore JavaScript, which adds interactivity to websites.
 
-**Database & Entity-Relationship Diagrams (ERD):**
-🧰 I'm starting to learn about databases and how to design data structures using ERD.
-
 **MySQL & SQL:**
 🧰 I'm in the early stages of working with MySQL and SQL databases to store and retrieve data.
 
@@ -32,19 +29,12 @@
 **Object-Oriented Programming:**
 🛠️ I'm starting to understand the principles of Object-Oriented Programming.
 
-**JPA & Hibernate:**
-🛠️ I'm beginning to explore JPA and Hibernate for Java-based database interaction.
-
 **Spring Security & Spring Boot REST API:**
 🛠️ I'm interested in learning about security in Spring Boot REST APIs.
-
-**Algorithm & Java:**
-🛠️ I'm just starting to learn about algorithms and Java programming.
 
 **Git & GitHub:**
 🧰 I'm beginning to use Git and GitHub for version control.
 
-If you're a fellow beginner or if you have any questions, feel free to reach out. Let's learn and grow together! 😊🌐
 
 ## 🌐 Socials:
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/feed/)
@@ -65,10 +55,6 @@ JavaScript, Java, PHP, Git, Linux, Docker, Portfolio, Postman, React, NodeJS, Bo
 ## 🏆 GitHub Trophies
 **GitHub Trophies:**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Justshad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-**Top Contributed Repo:**
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Justshad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 **Random Dev Meme:**
